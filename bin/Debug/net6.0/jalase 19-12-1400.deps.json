@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jalase 19-12-1400/1.0.0": {
+        "runtime": {
+          "jalase 19-12-1400.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jalase 19-12-1400/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

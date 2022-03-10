@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\jalase 19-12-1400\bin\Debug\net6.0\jalase 19-12-1400.exe
+C:\Users\HP\Desktop\jalase 19-12-1400\bin\Debug\net6.0\jalase 19-12-1400.deps.json
+C:\Users\HP\Desktop\jalase 19-12-1400\bin\Debug\net6.0\jalase 19-12-1400.runtimeconfig.json
+C:\Users\HP\Desktop\jalase 19-12-1400\bin\Debug\net6.0\jalase 19-12-1400.dll
+C:\Users\HP\Desktop\jalase 19-12-1400\bin\Debug\net6.0\jalase 19-12-1400.pdb
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.AssemblyInfo.cs
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.dll
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\refint\jalase 19-12-1400.dll
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.pdb
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\jalase 19-12-1400.genruntimeconfig.cache
+C:\Users\HP\Desktop\jalase 19-12-1400\obj\Debug\net6.0\ref\jalase 19-12-1400.dll
